@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"bat_man","folderPath":"folders/Sprites/bat_man.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -34,6 +35,11 @@
     "IDEVersion": "2023.8.0.98",
   },
   "resources": [
+    {"id":{"name":"Spr_bat_man_idle","path":"sprites/Spr_bat_man_idle/Spr_bat_man_idle.yy",},},
+    {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+    {"id":{"name":"Spr_bat_man_running","path":"sprites/Spr_bat_man_running/Spr_bat_man_running.yy",},},
+    {"id":{"name":"Spri_wall","path":"sprites/Spri_wall/Spri_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

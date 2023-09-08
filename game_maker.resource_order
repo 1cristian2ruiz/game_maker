@@ -15,6 +15,11 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"bat_man","order":2,"path":"folders/Sprites/bat_man.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"Spr_bat_man_running","order":1,"path":"sprites/Spr_bat_man_running/Spr_bat_man_running.yy",},
+    {"name":"Spri_wall","order":1,"path":"sprites/Spri_wall/Spri_wall.yy",},
+  ],
 }
